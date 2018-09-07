@@ -1,0 +1,22 @@
+{
+  "autoDocstring.docstringFormat": "google",
+  "autoDocstring.guessTypes": true,
+  "autoDocstring.includeDescription": false,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.rulers": [80],
+  "editor.trimAutoWhitespace": true,
+  "files.insertFinalNewline": true,
+  "prettier.singleQuote": true,
+  "python.formatting.provider": "yapf",
+  "python.formatting.yapfPath": "${workspaceFolder}/.venv/bin/yapf",
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Path": "${workspaceFolder}/.venv/bin/flake8",
+  "python.linting.lintOnSave": true,
+  "python.linting.pep8Enabled": true,
+  "python.linting.pep8Path": "${workspaceFolder}/.venv/bin/pep8",
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintPath": "${workspaceFolder}/.venv/bin/pylint",
+  "python.pythonPath": "${workspaceFolder}/.venv/bin/python"
+}

@@ -1,0 +1,7 @@
+[BASIC]
+good-names=i,j,k,ex,Run,_,x,y
+[MESSAGES]
+# R0903: disable too few public methods (desired)
+disable=R0903
+[TYPECHECK]
+ignored-modules=pyxel
